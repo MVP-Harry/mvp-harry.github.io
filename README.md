@@ -1,4 +1,3 @@
 # Hello there!
 
-Welcome to my blog!
-This is a test :)
+Welcome to my blog! My name is Harry.
