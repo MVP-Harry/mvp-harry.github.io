@@ -6,6 +6,8 @@ categories: [Competitive Programming, DP]
 tags: [mistakes, competitive programming, dp]
 ---
 
+![Learn from Mistakes](/assets/img/crystal.jpg)
+
 ## Introduction
 Recently, I decided to "restart" my competitive programming [journey](https://mvp-harry.github.io/posts/let-the-journey-begin/). One of the things that I hadn't done well enough is learning from my mistakes and the problems that I couldn't solve; therefore, in this post, I'm going to list all the dynamic programming problems that I couldn't solve from [USACO Guide](https://usaco.guide), describe the solution in my own words, and summarize the key learning. In this post, I will specifically focus on dynamic programming problems.
 

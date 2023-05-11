@@ -17,3 +17,6 @@ Now, I've decided to restart my journey. I'm genuinely passionate about competit
 Before I "retired", I mainly practiced on codeforces by solving random questions (what a lot of good competitive programmers recommend). Looking back, however, I think it was a mistake. I learn the best through systematic trainings, and the scattered training style just doesn't work for me.
 
 After comparing a few resources, I've settled with [USACO Guide](https://usaco.guide). Its interface and content has improved so much compared to the last time I visited, and the way it systematically divides the topics should fit me very well. It also combines problems from various online judges, which makes it a lot easier for me to track progress. Given that I've had some background on most of the gold division algorithms, I'm allowed to skip the "easy" problems.
+
+## "Learning from Mistakes" Series
+* [Learning from Mistakes: Dynamic Programming Edition](https://mvp-harry.github.io/posts/learning-from-mistakes-dynamic-programming-edition/)
