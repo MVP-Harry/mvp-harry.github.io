@@ -1,0 +1,238 @@
+---
+layout: post
+title: 'Last Minute Review: Biology Exam'
+categories:
+- School
+- Biology
+tags:
+- school
+- biology
+- review
+date: 2023-05-16 19:36 -0700
+---
+## Intro
+This is my desperate attempt to study for the Biology exam.
+
+* Chapter 7 & 11: Membrane Transport and Cell Signaling
+* Chapter 8: Metabolism
+* Chapter 9: Cellular Respiration and Fermentation
+* Chapter 10: Photosynthesis
+
+## Membrane Transport and Cell Signaling
+* Overview
+    * Membrane exhibits selective permeability
+    * Phospholipids (amphipathic molecules)
+        * Hydrophilic head
+        * Hydrophobic tail
+    * The fluid mosaic model
+* Fluidity of membranes
+    * Shift laterally (but can't flip because of Hydrophobic tails)
+    * Unsaturated (more fluid) vs saturated (most stable)
+    * Cholesterol
+* Membrane Proteins and Their Functions
+    * Integral proteins
+    * Peripheral proteins
+    * Six functions of membrane proteins
+        1. Transport
+        2. Enzymatic activity
+        3. Anchor (attachment to the cytoskeleton and extracellular matrix) (?)
+        4. Cell-cell recognition
+        5. Interceullar joining (?)
+        6. Signal Transduction
+    * Membrane faces are different from each other
+* Selective Permeability
+    * Hydrophobic molecules can cross easily
+    * Polar molecules, such as sugars, cannot cross easily
+* Transport Proteins
+    * Channel proteins
+        * Have a hydrophilic channel that allows passage of hydrophilic substances
+    * Carrier proteins
+        * Bind to molecules and change shape to shuttle them across the membrane
+    * A transport protein is specific
+* Tonicity
+    * A is *hypertonic* to B, if A has a higher solute concentration than B
+    * A is *hypotonic* to B, if A has a lower solute concentration than B
+    * Plant cells want to be in a hypotonic environment, so that they will gain water (become turgid)
+* Passive transport
+    * Diffusion of a substance across a membrane with *no energy* investment
+    * Substances diffuse down their concentration gradient
+    * The diffusion of a substance across a biological membrane is passive transport
+    * Osmosis is the diffusion of water across membranes
+    * Facilitated diffusion
+        * Still passive; just speed up the process
+        * Examples: channel protein
+* Active Transport
+    * Move solutes against their concentration gradient
+    * Needs energy, usually in the form of ATP
+    * Example: Sodium-potassium pump
+        * 3 Na+ in 
+        * 2 K+ out
+* Cotransport
+    * Active transport of a solute indirectly drives transport of other solutes
+* Bulk Transport
+    * Requires energy
+    * Occurs by exocytosis and endocytosis
+        * Exocytosis 
+        * Endocytosis - cell takes in molecules
+            * Phagocytosis (cellular eating)
+            * Pinocytosis (cellular drinking)
+            * Receptor-mediated endocytosis
+* Cell Signaling
+    * Short-distance signaling: paracrine signaling
+    * Neuron-related signaling: synaptic signaling
+    * Long-distance signaling: endocrine signaling (through blood vessels)
+    * Autocrine: signaling with itself
+    
+* Three Stages of Cell Signaling
+    * Reception
+    * Transduction
+    * Response (activation)
+* Reception: the Binding of a Signaling Molecule to a Receptor Protein
+    * Binding between a signal molecule (*ligand*) and receptor is highly-specific
+    * Receptors
+        * G protein-coupled receptors (GPCR)
+            * G proteins bind to GTP (a Canadian cousin of ATP)
+            * G protein is active if and only if GTP is bound to the G protein
+        * Ligand-gated ion channels
+            * When a signal molecule binds to a receptor, the gate changes shape and allows specific ions to pass
+* Transduction
+    * Involves multiple steps
+        * Can amplify a signal
+    * The molecules that relay a signal are mostly proteins
+    * Phosphorylation and Dephosphorylation
+        * Protein kinases transfer phosphates from ATP to proteins
+            * Change protein from inactive to active 
+        * Protein phosphatases remove the phosphates from proteins 
+            * Turning off the signal transduction pathway
+    * Second messengers
+        * Activates the series of proteins
+        * Cyclic AMP and ions are common second messengers
+* Response
+    * Response may occur in the cytoplasm or in the nucleus
+    * Transcription factor
+    * QUESTION: explain in human language
+
+## Metabolism
+* Catabolic vs Anabolic
+    * Catabolic pathways release energy by breaking down complex molecules
+    * Anabolic pathways consume energy to build complex molecules
+* Exergonic vs Endergonic
+    * Exergonic reactions have negative net free energy (delta G is negative)
+    * Endergonic absorbs free energy (delta G is positive)
+* ATP
+    * Energy coupling
+        * The use of exergonic process to drive an endergonic one
+        * Mediated by ATP
+    * ATP drives endergonic reactions by phosphorylation
+    * ATP can be regenerated by an addition of phosphate group to ADP
+    * Cycle of life
+* Enzymes
+    * An enzyme is a catalytic protein that speeds up reactions
+    * Properties of enzymes
+        * Activation energy is the initial energy required to start a chemical reaction; enzymes lower the activation energy
+        * Enzymes do not affect the change in free energy
+    * Induced fit of enzyme to the substrate brings chemical groups of the active site into positions that enhance their ability to catalyze the reaction
+    * An enzyme's activity can be affected by:
+        * Temperature and pH
+            * Each enzyme has an optimal temperature and pH
+    * Cofactors
+        * Non-protein enzyme helpers (recall that enzymes are proteins)
+        * An organic cofactor is called a coenzyme
+    * Enzyme inhibitors
+        * Competitive inhibitors
+            * Bind to the active site of an enzyme
+        * Noncompetitive inhibitors
+            * Bind to another part of an enzyme to make the active site less effective
+        * Allosteric regulation (QUESTION)
+        * Feedback inhibition
+            * The end product of a metabolic pathway shuts down the pathway
+            * Prevents waste
+
+## Cellular Respiration and Fermentation
+* Overview
+    * Cellular respiration is made up of both aerobic and anaerobic respiration (otherwise known as fermentation)
+    * Exergonic
+    * The fuel (i.e. glucose) gets oxidized, while oxygen is being reduced
+    * Multi-step process: 
+        * glycolysis (occurs in cytoplasm)
+        * pyruvate oxidation and citric acid cycle (kreb's cycle)
+        * oxidative phosphorylation (generates most of the ATP)
+* Redox
+    * Reduced (gain an electron)
+    * Oxidized (lose an electron)
+* Glycolysis
+    * Breaks down glucose into two pyruvates
+    * Investment phase 
+        * Uses 2 ATP
+        * Breaks glucose into PGAL
+    * Payoff phase
+        * PGAL turns into pyruvate
+        * Gains 4 ATP and 2 NADH (reduced NAD+)
+* Citric Acid Cycle
+    * Occurs in the mitochondria
+    * Pyruvate oxidation
+        * Take a carbon from pyruvate, attach CoA, and form Acetyl CoA
+        * Produces a CO2 and a NADH
+    * Kreb's cycle
+        * Acetyl CoA (2 carbon) + oxaloacetate (4 carbon) -> citrate acid (6 carbon)
+        * Citrate acid -> gets oxidize a bunch of times -> malate -> oxaloacetate
+        * Notice that 3 total carbons are lost in the entire cycle
+        * Each cycle (counting pyruvate oxidation) produces 4 NADH, 1 FADH, 1 ATP
+* Oxidative Phosophorylation
+    * Oxygen likes to be reduced (electron acceptor) -> forms H2O at the end
+    * NADH -> CoQ -> CytC -> ... -> pumps H+ across the membrane -> O2 is the final electron acceptor -> forms H2O
+    * Accounts for the majority of the ATPs produced (~28)
+* Fermentation
+    * Only uses glycolysis to generate ATP
+    * Alcohol fermentation
+    * Lactic acid fermentation (when O2 is scarce)
+* How Other Molecules Enter The Catabolic Pathway
+    * Proteins
+        * Strip the NH3
+        * Goes to kreb cycle
+    * Fats
+        * Fatty acids need an additional step called beta oxidation, which yield acetyl CoA
+## Photosynthesis
+* Photosynthesis Overview
+  * Sunlight (photons) + CO2 + H2O -> carbohydrate + O2
+  * Integral for life
+  * Photosynthesis can be broken down into two stages
+      * Light reaction (light dependent)
+          * H2O -> O2
+          * ATP, NADPH
+      * Calvin cycle (light independent)
+          * Needs CO2
+          * Creates G3P
+* Light Reaction
+  * light + H2O -> ATP + NADPH + O2 (by-product)
+  * Leaf -> mesophyll (interior tissue of the leaf) -> chloroplasts -> thykloid (little disks)
+  * Lighr reaction takes place in thykloid membranes
+      * Light goes to PS2 and PS1 (called the linear electron flow)
+          * Photosystems consist of a reaction-center complex and a light-harvesting complex
+      * Chlorophyll called P680 donates an electron, which then is used to pump protons
+      * P680+ is an ion, which then grabs the electron from H2O. H2O gets broken down into 1/2 O2 (where the oxygen by-product comes from) and 2H+
+      * Photophosorlation: Stroma has low H+ concentration gradient. Protons are pumped inside to the thykloid space.
+      * PS1 has P700
+          * The electron is used to reduce NADP+ to NADPH
+          * P700 then gets the electron from the low-energy electron from P680
+* Calvin Cycle
+  * Uses the energy from ATP and NADPH to reduce CO2 to sugar
+  * Anabolic
+  * The carbohydrate produced directly from Calvin cycle is G3P, not glucose (cycle takes place 3 times)
+  * Carbon fixation
+      * Each CO2 molecule, one at a time, gets attached to a five-carbon sugar named RuBP
+      * *Rubisco* is the enzyme that catalyzes the reaction
+      * The result is a six-carbon sugar that gets split in half immediately -> 3-phosphoglycerate
+  * Reduction
+      * Each 3-phosphoglycerate receives an additional phosphate group from ATP
+      * Eventually it becomes G3P
+      * Note that for every 3 CO2, 6 G3P are formed, but only 1 can count as a net gain
+  * Regeneration of the CO2 acceptor (RuBP)
+      * The five molecules of G3P (worth 15 carbons) gets rearranged to 3 RuBPs
+  * Consumes a total of 9 ATP and 6 NADPH
+* Evolution of Alternative Mechanisms
+  * Need to adapt to hot and arid climates
+  * Photorespiration: Rubisco sometimes also fixes oxygen
+      * Produces a two-carbon compound
+  * C4 plants
+
