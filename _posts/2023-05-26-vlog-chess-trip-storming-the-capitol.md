@@ -2,7 +2,7 @@
 layout: post
 title: Vlog | Chess Trip (Storming the Capitol)
 date: 2023-05-26 21:39 -0700
-categories: [Life, Vlog]
+categories: [Life]
 tags: [vlog, chess, life]
 ---
 

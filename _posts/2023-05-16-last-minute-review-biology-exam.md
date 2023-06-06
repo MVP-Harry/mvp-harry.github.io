@@ -3,7 +3,6 @@ layout: post
 title: 'Last Minute Review: Biology Exam'
 categories:
 - School
-- Biology
 tags:
 - school
 - biology

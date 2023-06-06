@@ -39,3 +39,25 @@ One of the most important ways to improve is to review the questions that I stru
         + Instead, it's necessary to derive a mathematical formula to prove that the optimal set of people is always the suffix of a sorted array
     * Tags: Math
 </details>
+
+### [432D - Prefixes and Suffixes](https://codeforces.com/problemset/problem/432/D)
+<details>
+    <summary>Spoiler</summary>
+    * Technically I solved this problem
+    * The reason I decided to include it is because it's a great KMP problem
+    * Tags: string algorithms, kmp
+</details>
+
+### [494B - Obsessive Strings](https://codeforces.com/problemset/problem/494/B)
+<details>
+    <summary>Spoiler</summary>
+    * Where I got stuck: I couldn't figure out how to find occurrence of substrings based on the kmp prefix function.
+    * Tags: string algorithms, kmp
+</details>
+
+### [1839D - Ball Sorting](https://codeforces.com/contest/1839/problem/D)
+<details>
+    <summary>Spoiler</summary>
+    * Where I got stuck: Wasn't able to "abstracitfy" the problem
+    * Tags: dp
+</details>
