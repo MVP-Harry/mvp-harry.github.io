@@ -3,7 +3,7 @@ layout: post
 title: Life Goals | Running & Exercising
 date: 2023-06-19 19:12 -0700
 categories: [Life]
-tags: life, running, exercising, goals
+tags: [life, running, exercising, goals]
 ---
 
 ![running](/assets/img/running.jpg)

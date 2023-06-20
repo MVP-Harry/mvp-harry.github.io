@@ -61,3 +61,9 @@ One of the most important ways to improve is to review the questions that I stru
     * Where I got stuck: Wasn't able to "abstracitfy" the problem
     * Tags: dp
 </details>
+
+### [665E - Beautiful Subarrays](https://codeforces.com/problemset/problem/665/E)
+<details>
+    <summary>Spoiler</summary>
+    * Tags: 0-1 Trie
+</details>
