@@ -19,4 +19,3 @@ Thanks a lot, team! The past two years playing chess with y'all was absolutely a
 _Left to right: Rohan, Conner, Harry (me), Roshen, Will_
 ![picture 2](/assets/img/chess_trip_2.jpg)
 ![picture 3](/assets/img/chess_trip_3.jpg)
-

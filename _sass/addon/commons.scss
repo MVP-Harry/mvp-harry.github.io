@@ -124,10 +124,8 @@ img {
 
 blockquote {
   border-left: 5px solid var(--blockquote-border-color);
-  border-radius: 4px;
-  padding: 10px 16px;
-  color: var(--text-color);
-  background-color: var(--blockquote-background-color);
+  padding-left: 1rem;
+  color: var(--blockquote-text-color);
 
   &[class^='prompt-'] {
     border-left: 0;
@@ -159,7 +157,7 @@ blockquote {
 }
 
 kbd {
-  font-family: Pretendard, inherit;
+  font-family: inherit;
   display: inline-block;
   vertical-align: middle;
   line-height: 1.3rem;
@@ -374,15 +372,6 @@ i {
   }
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: 700;
-}
-
 .post {
   h1 {
     margin-top: 2rem;
@@ -414,8 +403,8 @@ h6 {
 }
 
 .post-content {
-  font-size: 1rem;
-  margin-top: 1rem;
+  font-size: 1.08rem;
+  margin-top: 2rem;
   overflow-wrap: break-word;
 
   a {
@@ -524,39 +513,39 @@ h6 {
   display: inline-flex;
 }
 
-// .shimmer {
-//   overflow: hidden;
-//   position: relative;
-//   background: var(--img-bg);
+.shimmer {
+  overflow: hidden;
+  position: relative;
+  background: var(--img-bg);
 
-//   &::before {
-//     content: '';
-//     position: absolute;
-//     background: var(--shimmer-bg);
-//     height: 100%;
-//     width: 100%;
-//     -webkit-animation: shimmer 1s infinite;
-//     animation: shimmer 1s infinite;
-//   }
+  &::before {
+    content: '';
+    position: absolute;
+    background: var(--shimmer-bg);
+    height: 100%;
+    width: 100%;
+    -webkit-animation: shimmer 1s infinite;
+    animation: shimmer 1s infinite;
+  }
 
-//   @-webkit-keyframes shimmer {
-//     0% {
-//       transform: translateX(-100%);
-//     }
-//     100% {
-//       transform: translateX(100%);
-//     }
-//   }
+  @-webkit-keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
 
-//   @keyframes shimmer {
-//     0% {
-//       transform: translateX(-100%);
-//     }
-//     100% {
-//       transform: translateX(100%);
-//     }
-//   }
-// }
+  @keyframes shimmer {
+    0% {
+      transform: translateX(-100%);
+    }
+    100% {
+      transform: translateX(100%);
+    }
+  }
+}
 
 .embed-video {
   width: 100%;
@@ -705,7 +694,6 @@ $btn-mb: 0.5rem;
   width: $sidebar-width;
   z-index: 99;
   background: var(--sidebar-bg);
-  font-family: $font-family-base;
 
   /* Hide scrollbar for Chrome, Safari and Opera */
   &::-webkit-scrollbar {
@@ -929,7 +917,6 @@ $btn-mb: 0.5rem;
     font-size: 1rem;
     color: gray;
     padding-left: 0.5rem;
-    font-weight: 700;
 
     a:hover {
       @extend %link-hover;
@@ -1046,7 +1033,6 @@ $btn-mb: 0.5rem;
 
     font-size: 1.4rem;
     line-height: 2.5rem;
-    font-weight: 700;
   }
 
   > div {
@@ -1077,7 +1063,7 @@ $btn-mb: 0.5rem;
   display: none;
   font-size: 1.1rem;
   font-weight: 600;
-  font-family: Pretendard, sans-serif;
+  font-family: sans-serif;
   color: var(--topbar-text-color);
   text-align: center;
   width: 70%;
@@ -1183,7 +1169,7 @@ $btn-mb: 0.5rem;
   }
 
   .toast-body {
-    font-family: Pretendard, Lato, sans-serif;
+    font-family: Lato, sans-serif;
     line-height: 1.25rem;
 
     button {
@@ -1592,14 +1578,10 @@ $btn-mb: 0.5rem;
   }
 } /* min-width: 1650px */
 
-.px-md-3 {
-  font-size: 0.9rem;
-}
-
 // Applause button
 applause-button {
-  width: 55px;
-  height: 55px;
+  width: 80px;
+  height: 80px;
   margin: 0 auto;
 
   .count-container {

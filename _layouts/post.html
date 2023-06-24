@@ -84,14 +84,14 @@ tail_includes:
 
 </div> <!-- .post-meta -->
 
+{% if page.applause_button %}
 <div class="applause-button">
-  {% if page.applause_button %}
-    <applause-button
+  <applause-button class="mb6"
       color={{ site.accent_color | default:'rgb(79,177,186)' }}
-      url={{ site.url }}{{ page.url }} >
-    </applause-button>
-  {% endif %}
-</div>
+      url={{ page.url | absolute_url }} >
+  </applause-button>
+  </div> 
+{% endif %}
 
 <div class="post-content">
   {{ content }}
