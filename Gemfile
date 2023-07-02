@@ -28,3 +28,4 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
+gem 'jemoji'
