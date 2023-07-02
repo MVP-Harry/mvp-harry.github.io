@@ -1,7 +1,7 @@
 ![dandelion](/assets/img/dandelion.jpg)
 
 ### Who am I?
-My name is Harry, a high school senior. I love computer science and mathematics, have some vague interests in history and economics, and occasionally enjoy literature. I am also a hardcore Warriors fan and a chess enthusiast!
+My name is Harry, a rising college freshman. I love computer science and mathematics, have some vague interests in history and economics, and occasionally enjoy literature. I am also a hardcore Warriors fan and a chess enthusiast!
 
 ### Why this blog?
 Writing sucks. It takes so much time and effort, and even when you try your best, the words never come out as pretty as they sound in your head.
