@@ -1,4 +1,4 @@
-# frozen_string_literal: true
+frozen_string_literal: true
 
 source "https://rubygems.org"
 
@@ -28,4 +28,4 @@ if RUBY_PLATFORM =~ /linux-musl/
 end
 
 gem 'jekyll-compose', group: [:jekyll_plugins]
-gem 'jemoji'
+gem 'jemoji', group: [:jekyll_plugins]

@@ -8,6 +8,9 @@ tags: [life, running, exercising, goals]
 
 ![running](/assets/img/running.jpg)
 
+## Update 7/21/2023
+Sadly I've not been able to stick with my original plan :( Might restart in the near future.
+
 ## Intro
 
 Can't believe that I would ever say this, but running is actually quite fun! Sure, it drains your legs and sucks the life out of you every single damn time, but it is equally fulfilling at the same time. Plus, all the runner friends that I have are very disciplined, so... hopefully I'll be as disciplined as they are by becoming a runner myself :D
