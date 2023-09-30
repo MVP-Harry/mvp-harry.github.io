@@ -8,6 +8,11 @@ categories: Essays
 
 ![ucla](/assets/img/ucla.jpg)
 
+## Just a Few Words To Myself (9/29/2023)
+* Remember that I have a lot of goals to achieve in college. Just because other people are relaxing and having fun doesn't mean I should do the same.
+* Work hard, work hard, and work hard. I can clearly see my own improvements when I work hard, but I just have to be consistent.
+* I can make the ICPC World Finals (one day at least...)
+
 ## Intro
 With UCLA starting in a few days, I'm feeling a mix of excitement and nervousness. In order to make college life productive, meaningful, and fun at the same time, I made a list of "Do's and Don'ts" that contain some of the most important principles and mentalities that I hope to achieve in the first quarter.
 
