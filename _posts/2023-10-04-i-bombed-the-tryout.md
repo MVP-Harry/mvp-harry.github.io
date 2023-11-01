@@ -9,6 +9,10 @@ tags: [cp, icpc, tryout, sad]
 ![mist](/assets/img/mist.jpg)
 _˙◠˙_
 
+## Update
+I bombed the second tryout too. Such a clown :(
+
+## Original Post
 The first ICPC tryout took place yesterday, which would decide who would represent UCLA in the top 3 teams of the regional. Coming into the tryout, I was feeling reasonably confident that I'd be able to make the top 9, given that I'd been working hard, and my team just got 3rd place in the recent NAQ. 
 
 However, things didn't go the way I hoped for. I got quite nervous even before the contest started, and I could feel my adrenaline pumping, which in hindsight, was the reason for my terrible performance.
