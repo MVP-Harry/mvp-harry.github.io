@@ -28,4 +28,4 @@ One of my new year resolutions is to read 20 books in 2024. So here's the list (
 ## 三体 *(Three-Body)* by 刘慈欣 <a name="three_body"></a>
 <img src="/assets/img/three_body.jpg" alt="three_body" width="200"/>
 - This series will blow your mind. No other science fiction books that I've read so far comes close to this level of creativity. There are so many interesting characters and concepts in the book, and you'll simply be left saying "oh wow" after reading.
-- <p>Overall rating: &starf; &starf; &starf; &starf; &star;. Strongly recommend. </p>
+- <p>Overall rating: &starf; &starf; &starf; &starf; &starf;. Strongly recommend. </p>
