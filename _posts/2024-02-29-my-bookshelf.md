@@ -9,9 +9,16 @@ pin: true
 
 One of my new year resolutions is to read 20 books in 2024. So here's the list (in reverse chronological order) :D
 
-1. [_The Last Lecture_ by Randy Pausch](#the_last_lecture)
-2. [_You've Reached Sam_ by by Dustin Dao](#you_ve_reached_sam)
-3. [三体 _(Three-Body)_ by 刘慈欣](#three_body)
+1. [_The Secret History_ by Donna Tartt](#the_secret_history)
+2. [_The Last Lecture_ by Randy Pausch](#the_last_lecture)
+3. [_You've Reached Sam_ by by Dustin Dao](#you_ve_reached_sam)
+4. [三体 _(Three-Body)_ by 刘慈欣](#three_body)
+
+## _The Secret History_ by Donna Tartt <a name="the_secret_history"></a>
+<img src="/assets/img/the_secret_history.jpg" alt="the_secret_history" width="200"/>
+
+- _The Secret History_ unfolds a murder mystery and its aftermath that occurred among a group of elite and pretentious Greek majors at a liberal arts college.
+- <p>Overall rating: &starf; &starf; &starf; &starf; &star;. </p> The book is a literary masterpiece as it meticulously depicts the extravagant, luxurious, and pretentious lifestyle of the six-student Greek circle. It does a great job in illustrating the flaws of these characters, but at the same time creating some mysterious appeals to them. I really enjoy reading most of the book and getting to know more about these characters, but the plot is, in my opinion, dragged out longer than it needs to be.
 
 ## _The Last Lecture_ by Randy Pausch <a name="the_last_lecture"></a>
 <img src="/assets/img/the_last_lecture.jpg" alt="the_last_lecture" width="200"/>
