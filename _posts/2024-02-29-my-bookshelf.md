@@ -9,11 +9,18 @@ pin: true
 
 One of my new year resolutions is to read 20 books in 2024. So here's the list (in reverse chronological order) :D
 
-1. [_Never Lie_ by Freida McFadden](#never_lie)
-2. [_The Secret History_ by Donna Tartt](#the_secret_history)
-3. [_The Last Lecture_ by Randy Pausch](#the_last_lecture)
-4. [_You've Reached Sam_ by by Dustin Dao](#you_ve_reached_sam)
-5. [三体 _(Three-Body)_ by 刘慈欣](#three_body)
+1. [_The Measure_ by Nikki Erlick](#the_measure)
+2. [_Never Lie_ by Freida McFadden](#never_lie)
+3. [_The Secret History_ by Donna Tartt](#the_secret_history)
+4. [_The Last Lecture_ by Randy Pausch](#the_last_lecture)
+5. [_You've Reached Sam_ by by Dustin Dao](#you_ve_reached_sam)
+6. [三体 _(Three-Body)_ by 刘慈欣](#three_body)
+
+## _The Measure_ by Nikki Erlick <a name="the_measure"></a>
+<img src="/assets/img/the_measure.jpg" alt="the_measure" width="200"/>
+
+- What would happen if everyone knows how long they have left to live?
+- <p>Overall rating: &starf; &starf; &starf; &starf; &star;. </p> _The Measure_ is told from the point of view of a group of "short-stringers", people with just a few years left, after everyone in the world is given a string indicating how long they have left to live.
 
 ## _Never Lie_ by Freida McFadden <a name="never_lie"></a>
 <img src="/assets/img/never_lie.jpg" alt="never_lie" width="200"/>
