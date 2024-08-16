@@ -9,10 +9,17 @@ pin: true
 
 One of my new year resolutions is to read 20 books in 2024. So here's the list (in reverse chronological order) :D
 
-1. [_The Secret History_ by Donna Tartt](#the_secret_history)
-2. [_The Last Lecture_ by Randy Pausch](#the_last_lecture)
-3. [_You've Reached Sam_ by by Dustin Dao](#you_ve_reached_sam)
-4. [三体 _(Three-Body)_ by 刘慈欣](#three_body)
+1. [_Never Lie_ by Freida McFadden](#never_lie)
+2. [_The Secret History_ by Donna Tartt](#the_secret_history)
+3. [_The Last Lecture_ by Randy Pausch](#the_last_lecture)
+4. [_You've Reached Sam_ by by Dustin Dao](#you_ve_reached_sam)
+5. [三体 _(Three-Body)_ by 刘慈欣](#three_body)
+
+## _Never Lie_ by Freida McFadden <a name="never_lie"></a>
+<img src="/assets/img/never_lie.jpg" alt="never_lie" width="200"/>
+
+- _Never Lie_ is a psychological thriller about a couple stranded at a mysterious house during a blizzard. It contains multiple unexpected plot twists.
+- <p>Overall rating: &starf; &starf; &starf; &star; &star;. </p> _Never Lie_ was recommended to me by a friend, and it was a quick and fun read. Throughout the novel, the author successfully creates a lot of tension and suspense around the plot, and leads the readers on to create their own theories based on the hints here and there. However, your guesses are most likely wrong, as the author proceeds to unveil multiple unexpected plot twists. And to be honest, I don't know how I feel about them. On one hand, I enjoyed the shock and surprise that came with the ending; on the other hand, I felt a bit cheated on after trying to formulate my own guesses based on the clues only to find them completely wrong... 
 
 ## _The Secret History_ by Donna Tartt <a name="the_secret_history"></a>
 <img src="/assets/img/the_secret_history.jpg" alt="the_secret_history" width="200"/>
@@ -25,7 +32,7 @@ One of my new year resolutions is to read 20 books in 2024. So here's the list (
 - After Professor Randy Pausch of CMU got diagnosed of terminal pancreatic cancer at 47, he gave a moving last lecture that went over how he has achieved his childhood dreams, how to enable others' dreams, and some suggestions on how to live a fulfilling life. What struck me the most was how Randy didn't seem to have any major regrets, even though his life was shorter than most.
 - It led me to ponder about my own dreams - what are they, would I be able to achieve them in 30 years, and would I have any regrets?
     - To do: make a list of things that I want to do in 30 years.
-- <p>Overall rating: &starf; &starf; &starf; &starf; &star;. A very touching and inspiring book albeit some chapters are a bit scattered.</p> 
+- <p>Overall rating: &starf; &starf; &starf; &star; &star;. A very touching and inspiring book albeit some chapters are a bit scattered.</p> 
 
 ## _You've Reached Sam_ by Dustin Dao <a name="you_ve_reached_sam"></a>
 <img src="/assets/img/you_ve_reached_sam.jpg" alt="you've reached sam" width="200"/>

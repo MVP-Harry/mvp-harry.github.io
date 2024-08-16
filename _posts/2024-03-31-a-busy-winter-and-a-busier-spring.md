@@ -2,6 +2,8 @@
 layout: post
 title: A Busy Winter Quarter (and a Busier Spring?)
 date: 2024-03-31 11:53 -0700
+categories: [Life]
+tags: [reflection, life, "2024"]
 ---
 
 ## Intro
