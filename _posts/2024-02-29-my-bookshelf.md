@@ -4,7 +4,7 @@ title: My Bookshelf (2024 Edition)
 date: 2024-02-29 19:49 -0800
 categories: [Books]
 tags: [books, "2024"]
-pin: true
+pin: false
 ---
 
 One of my new year resolutions is to read 20 books in 2024. So here's the list (in reverse chronological order) :D
