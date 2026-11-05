@@ -16,7 +16,7 @@
       "binding": "DB",
       "database_name": "blog-likes",
       // Filled in from `npx wrangler d1 create blog-likes`.
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "c374647e-3282-4cdb-b9b1-c315f01ec42a",
       "migrations_dir": "migrations"
     }
   ]

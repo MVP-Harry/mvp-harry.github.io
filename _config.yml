@@ -160,7 +160,7 @@ pwa:
 
 # Like button backend (Cloudflare Worker in /worker). Empty = button hidden.
 likes:
-  endpoint: # e.g. https://blog-likes.<subdomain>.workers.dev
+  endpoint: https://blog-likes.xingjianzhou7.workers.dev
 
 paginate: 10
 
