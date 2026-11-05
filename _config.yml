@@ -156,6 +156,11 @@ pwa:
     # shares the same domain name as the current website.
     deny_paths:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
+      - "/api/likes" # like counts from the Worker (any origin with this path) must never be cached
+
+# Like button backend (Cloudflare Worker in /worker). Empty = button hidden.
+likes:
+  endpoint: https://blog-likes.xingjianzhou7.workers.dev
 
 paginate: 10
 
@@ -222,6 +227,7 @@ exclude:
   - "*.gem"
   - "*.gemspec"
   - docs
+  - worker
   - tools
   - README.md
   - CLAUDE.md

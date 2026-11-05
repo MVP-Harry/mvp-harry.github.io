@@ -1,0 +1,14 @@
+{
+  "name": "blog-likes",
+  "private": true,
+  "description": "Thumbs-up counter for mvp-harry.github.io (Cloudflare Worker + D1)",
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev",
+    "test": "node --test test.mjs",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "4.158.0"
+  }
+}
