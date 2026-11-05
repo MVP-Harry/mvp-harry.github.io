@@ -1,2 +1,9 @@
 <!-- Site font (DM Sans). The font variables are set in assets/css/jekyll-theme-chirpy.scss -->
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap">
+
+<!-- Like button: off unless likes.endpoint is set in _config.yml. Backend in /worker. -->
+{% if site.likes.endpoint %}
+  <meta name="likes-endpoint" content="{{ site.likes.endpoint }}">
+  <link rel="preconnect" href="{{ site.likes.endpoint }}" crossorigin>
+  <script defer src="{{ '/assets/js/likes.js' | relative_url }}"></script>
+{% endif %}

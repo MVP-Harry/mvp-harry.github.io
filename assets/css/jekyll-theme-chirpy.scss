@@ -17,3 +17,107 @@
 ';
 
 /* append your custom style below */
+
+/* ---- Like button (assets/js/likes.js). Looks like the old applause button. ---- */
+$like-color: rgb(79, 177, 186);
+
+.like-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.25rem;
+  margin: 1.25rem auto 0.5rem;
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.like-button {
+  position: relative;
+  width: 80px;
+  height: 80px;
+  padding: 0;
+  border: 2px solid $like-color;
+  border-radius: 50%;
+  background: transparent;
+  cursor: pointer;
+  transition: transform 0.15s ease;
+
+  svg {
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    width: 60%;
+    height: 60%;
+    fill: $like-color;
+    opacity: 0.85;
+  }
+
+  .flat {
+    visibility: hidden;
+  }
+
+  &.liked {
+    cursor: default;
+
+    .flat {
+      visibility: visible;
+    }
+
+    .outline {
+      visibility: hidden;
+    }
+  }
+
+  &:not(.liked):hover {
+    transform: scale(1.05);
+  }
+
+  &:focus-visible {
+    outline: 3px solid $like-color;
+    outline-offset: 3px;
+  }
+
+  &.pop {
+    animation: like-pop 0.4s ease;
+  }
+}
+
+.like-count {
+  color: $like-color;
+  font-size: 1.25rem;
+  font-weight: 600;
+  min-height: 1.5em;
+}
+
+.like-count-card {
+  margin-left: 1.25rem;
+  white-space: nowrap;
+
+  svg {
+    width: 1em;
+    height: 1em;
+    margin-right: 0.3rem;
+    vertical-align: -0.125em;
+    fill: var(--text-muted-color);
+  }
+
+  .flat {
+    display: none;
+  }
+}
+
+@keyframes like-pop {
+  50% {
+    transform: scale(1.15);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .like-button,
+  .like-button.pop {
+    animation: none;
+    transition: none;
+  }
+}
