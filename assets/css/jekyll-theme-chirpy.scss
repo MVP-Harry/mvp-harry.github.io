@@ -1,0 +1,19 @@
+---
+---
+
+/* Copied from the Chirpy 7.6 gem so the font variables can be set. Keep the rest as upstream. */
+
+@use 'abstracts/variables' with (
+  $theme: '{{ site.theme_mode }}',
+  $font-family-base: ('DM Sans', Garamond, 'Microsoft Yahei', sans-serif),
+  $font-family-heading: ('DM Sans', 'Microsoft Yahei', sans-serif)
+);
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */

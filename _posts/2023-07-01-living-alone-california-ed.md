@@ -32,7 +32,7 @@ Anyways, as you can probably imagine, this is a brand-new experience for me. So,
 ### Fun Recommendations!
 1. Go watch [*Spider-Man: Across the Spider-Verse*](https://www.google.com/search?client=firefox-b-1-d&q=spider+man+across+the+spider+verse) if you haven't. It's amazing.
 2. [*Tomorrow, and Tomorrow, and Tomorrow*](https://www.google.com/search?client=firefox-b-1-d&q=Tomorrow%2C+and+Tomorrow%2C+and+Tomorrow) is a great book.
-3. [Paul Graham's](http://www.paulgraham.com/) essays are always a good read.
+3. [Paul Graham's](https://www.paulgraham.com/) essays are always a good read.
 > So you need to make yourself a big target for luck, and the way to do that is to be curious. Try lots of things, meet lots of people, read lots of books, ask lots of questions.
 > 
 > That's the key: consistency. People who do great things don't get a lot done every day. They get something done, rather than nothing.

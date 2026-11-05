@@ -28,7 +28,7 @@ That being said, there are of course **a ton of benefits** for being a chill, la
 * Some of them found my LinkedIn profile. James downloaded the profile picture that I used and made a bunch of funny pictures out of that :joy:
 
 <p><center>
-<img src="/assets/img/pixelharry.jpg" width="150"/> <img src="/assets/img/georgeharry.png" width="225"/> <img src="/assets/img/kimjungharry.png" width="227"/>
+<img src="/assets/img/pixelharry.jpg" alt="Pixel-art edit of my profile picture" width="150"/> <img src="/assets/img/georgeharry.png" alt="Funny edit of my profile picture" width="225"/> <img src="/assets/img/kimjungharry.png" alt="Another funny edit of my profile picture" width="227"/>
 </center></p>
 
 ## As an Employee
